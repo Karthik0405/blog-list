@@ -1,0 +1,25 @@
+/* Write your CSS code here */
+.blog-list-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.blog-list-title {
+  color: #12022f;
+  font-family: Roboto;
+  font-weight: 600;
+  font-size: 20px;
+}
+.blog-list-date {
+  color: #616e7c;
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 16px;
+}
+.blog-list-description {
+  color: #616e7c;
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 20px;
+}
